@@ -7,7 +7,16 @@ body {
     margin: 0;
     padding: 0;
 }
-
+.ima{
+    margin-top: 10px;
+    margin-right: 900px;
+    width: 200px;
+    height: auto;
+}
+.ima1, .ima2, .ima3, .ima4 {
+    width: 100px;
+    height: auto;
+}
 .container {
     max-width: 1200px;
     margin: 0 auto;
